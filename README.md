@@ -123,15 +123,14 @@ python app.py
 
 Customer meets credit and salary requirements.
 
-<img width="825" height="669" alt="Image" src="https://github.com/user-attachments/assets/3d27d008-1f06-4043-b826-a4ef3ea9dec5" />
+<img width="825" height="669" alt="Image" src="https://github.com/user-attachments/assets/829f6ee6-ad07-47ca-892a-44de3cdeb9ff" />
 
 
 ### Rejected Loan Case
 
 Customer exceeds eligibility criteria (EMI or credit score).
 
-<img width="838" height="485" alt="Image" src="https://github.com/user-attachments/assets/e1720280-859c-4f3c-848a-21a3b29912be" />
-
+<img width="838" height="485" alt="Image" src="https://github.com/user-attachments/assets/3594a078-2ed5-401c-9673-6e16d329ad99" />
 
 
 ## 8. Conclusion
